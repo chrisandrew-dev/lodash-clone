@@ -15,4 +15,4 @@ Short Javscript project replicating various utilities from the popular Lodash JS
 
 ## Attributions
 * [Codecademy.com](https://www.codecademy.com)
-* [Lodash](https://lodash.com/)
+* [Lodash.com](https://lodash.com/)
