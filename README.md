@@ -8,7 +8,7 @@ Short Javscript project replicating various utilities from the popular Lodash JS
  * Open the root directory in your IDE/text editor.
 
 ## Dependencies
-* Node JS
+* Node JS (optional)
 
 ## Stack
 * Javascript
