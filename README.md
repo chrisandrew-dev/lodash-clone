@@ -1,2 +1,18 @@
-# lodash-clone
-Small JS project recreating a handful of utilities from the popular library, Lodash
+# Lodash Clone
+
+## Description
+Replicates functionality of a handful of utilities from the popular JS library, Lodash. This project was completed as part of the Web Development Career Path at [Codecademy.com](https://www.codecademy.com/catalog). It is by no means intended to be a comprehensive clone. Students can access setup instructions, testing files and the original brief directly at Codecademy.com.
+
+## Getting started
+ * Download the files; and
+ * Open the root directory in your IDE/text editor.
+
+## Dependencies
+* Node JS
+
+## Stack
+* Javascript
+
+## Attributions
+* [Codecademy.com](https://www.codecademy.com)
+* [Lodash](https://lodash.com/)
